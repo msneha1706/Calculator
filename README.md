@@ -17,7 +17,7 @@ A simple, yet fully functional interactive calculator web application built usin
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Open the `index.html` file in your web browser.
+2. Open the `Calculator.html` file in your web browser.
 3. Perform calculations using the intuitive user interface.
 
 Feel free to explore the code, modify it, or use it as a foundation for your own web development projects.
